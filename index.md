@@ -1,5 +1,8 @@
-Jonathan Bayer is a freelance musician, Jewish educator and storyteller in San Francisco.
------------------------------------------------------------------------------------------
+---
+layout: default
+---
+
+## Jonathan Bayer is a freelance musician, Jewish educator and storyteller in San Francisco.
 
 ### Regular gigs:
 

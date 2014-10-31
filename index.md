@@ -43,3 +43,6 @@ layout: default
 -   The Jewish Museum-- wrote and performed “Pharaoh’s Bad Day”
 -   [New York Transit Museum](http://web.mta.info/mta/museum/)-- wrote and performed “Steel Driving Man; stories and songs about everything that rides rails&\* rdquo;
 -   [Pumpkin.com](http://Pumpkin.com)-- scored and recorded portions music for learning English software
+
+Contact Jon at [jonathan@jonathanbayer.com](mailto:jonathan@jonathanbayer.com).
+

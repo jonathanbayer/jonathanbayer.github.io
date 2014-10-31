@@ -3,7 +3,7 @@ title: Jonathan Bayer
 email: jonathan@jonathanbayer.com
 description: > # this means to ignore newlines until "baseurl:"
   Jonathan Bayer is a freelance musician, Jewish educator and storyteller in San Francisco.
-baseurl: "/jonathanbayer" # the subpath of your site, e.g. /blog/
+baseurl: "/jonathanbayer.com" # the subpath of your site, e.g. /blog/
 url: "http://benchinn.com" # the base hostname & protocol for your site
 twitter_username: jonsgigs
 github_username:  jekyll

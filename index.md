@@ -37,11 +37,11 @@ layout: default
 
 ### More cool stuff:
 
--   CDs--“Favorites never heard before” and “Fanimals and Amilies”. Available for download on [cdbaby.com](http://cdbaby.com)
+-   CDs – “Favorites never heard before” and “Fanimals and Amilies”. Available for download on [cdbaby.com](http://cdbaby.com)
 -   [The Bay Easy Brass Band](http://bayeasybrassband.com)
 -   [New York Historical Society](http://www.nyhistory.org/)-- wrote and performed musical, “The Battle for Brooklyn”
 -   The Jewish Museum-- wrote and performed “Pharaoh’s Bad Day”
--   [New York Transit Museum](http://web.mta.info/mta/museum/)-- wrote and performed “Steel Driving Man; stories and songs about everything that rides rails&\* rdquo;
+-   [New York Transit Museum](http://web.mta.info/mta/museum/)-- wrote and performed “Steel Driving Man; stories and songs about everything that rides rails”
 -   [Pumpkin.com](http://Pumpkin.com)-- scored and recorded portions music for learning English software
 
 Contact Jon at [jonathan@jonathanbayer.com](mailto:jonathan@jonathanbayer.com).

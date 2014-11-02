@@ -19,7 +19,7 @@ layout: default
 ### He sometimes works for:
 
 -   G-dcast – his favorite is [The Mountain and the Cliff](http://www.g-dcast.com/mountain "The Mountain and the Cliff - G-dcastG-dcast"), but he did the music for half a dozen
--   [Brandies Hillel Day School](http://www.bhds.org/)
+-   [Brandeis Hillel Day School](http://www.bhds.org/)
 -   [Yavneh Day School](http://www.yavnehdayschool.org/)
 -   [The Contemporary Jewish Museum](http://www.thecjm.org/)
 -   [Kol Shofar](http://kolshofar.org/)

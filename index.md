@@ -7,9 +7,9 @@ layout: default
 ### Regular gigs:
 
 -   Shaliach (prayer leader) for [The Kitchen](http://thekitchensf.org), an independent Jewish community based in San Francisco’s Mission district
--   Shaliach/ music teacher for [Congregagation Beth Sholom’s Shabbat School](http://bethsholomsf.org)
+-   Music Director for [Congregagation Beth Sholom](http://bethsholomsf.org)
 -   Song leader/ music teacher for [Congregation Emanu-El’s](http://Emanuelsf.org) Youth and Family Education and Early Childhood Centers
--   Music resource teacher for the San Francisco [Jewish Community Center Early Childhood Center](http://jccsf.org)
+-   Holiday Songleader/ Shaliach for the San Francisco [Jewish Community Center Early Childhood Center](http://jccsf.org)
 -   Shaliach/ storyteller for Torah n Tots at [Peninsula Temple Sholom](http://sholom.org)
 -   Music teacher/ storyteller for [Gan Noe](http://chabadnoevalley.org)
 -   Youth facilitator, [Redwood City Study Group](http://kevah.org)
